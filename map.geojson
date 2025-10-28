@@ -1,0 +1,879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Aceh",
+        "total_lembaga": 1608,
+        "persentase": 22.89293849658314,
+        "bahasa_asing": 99,
+        "komputer": 288,
+        "menjahit": 698,
+        "kecantikan": 110,
+        "montir": 255,
+        "elektronika": 82,
+        "lainnya": 76,
+        "tidak_ada": 5416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.749397,
+          4.695135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sumatera Utara",
+        "total_lembaga": 1905,
+        "persentase": 27.445613024059934,
+        "bahasa_asing": 322,
+        "komputer": 372,
+        "menjahit": 503,
+        "kecantikan": 322,
+        "montir": 227,
+        "elektronika": 77,
+        "lainnya": 82,
+        "tidak_ada": 5036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.381332,
+          2.192862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sumatera Barat",
+        "total_lembaga": 431,
+        "persentase": 29.88904299583911,
+        "bahasa_asing": 104,
+        "komputer": 74,
+        "menjahit": 112,
+        "kecantikan": 39,
+        "montir": 37,
+        "elektronika": 18,
+        "lainnya": 47,
+        "tidak_ada": 1011
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.800005,
+          -0.739566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Riau",
+        "total_lembaga": 714,
+        "persentase": 33.024976873265494,
+        "bahasa_asing": 84,
+        "komputer": 138,
+        "menjahit": 223,
+        "kecantikan": 71,
+        "montir": 96,
+        "elektronika": 38,
+        "lainnya": 64,
+        "tidak_ada": 1448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.706825,
+          0.293347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Jambi",
+        "total_lembaga": 438,
+        "persentase": 25.04288164665523,
+        "bahasa_asing": 66,
+        "komputer": 73,
+        "menjahit": 171,
+        "kecantikan": 49,
+        "montir": 22,
+        "elektronika": 14,
+        "lainnya": 43,
+        "tidak_ada": 1311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.613251,
+          -1.61035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sumatera Selatan",
+        "total_lembaga": 826,
+        "persentase": 23.040446304044632,
+        "bahasa_asing": 160,
+        "komputer": 227,
+        "menjahit": 154,
+        "kecantikan": 78,
+        "montir": 120,
+        "elektronika": 48,
+        "lainnya": 39,
+        "tidak_ada": 2759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.914399,
+          -3.319908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Bengkulu",
+        "total_lembaga": 252,
+        "persentase": 15.76971214017522,
+        "bahasa_asing": 48,
+        "komputer": 44,
+        "menjahit": 62,
+        "kecantikan": 26,
+        "montir": 40,
+        "elektronika": 12,
+        "lainnya": 20,
+        "tidak_ada": 1346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.260924,
+          -3.79286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Lampung",
+        "total_lembaga": 880,
+        "persentase": 29.294274300932088,
+        "bahasa_asing": 129,
+        "komputer": 188,
+        "menjahit": 257,
+        "kecantikan": 104,
+        "montir": 128,
+        "elektronika": 45,
+        "lainnya": 29,
+        "tidak_ada": 2124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.045055,
+          -4.855501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kepulauan Bangka Belitung",
+        "total_lembaga": 117,
+        "persentase": 27.52941176470588,
+        "bahasa_asing": 38,
+        "komputer": 39,
+        "menjahit": 13,
+        "kecantikan": 11,
+        "montir": 6,
+        "elektronika": 2,
+        "lainnya": 8,
+        "tidak_ada": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.440727,
+          -2.7416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kepulauan Riau",
+        "total_lembaga": 203,
+        "persentase": 38.37429111531191,
+        "bahasa_asing": 61,
+        "komputer": 30,
+        "menjahit": 47,
+        "kecantikan": 19,
+        "montir": 19,
+        "elektronika": 7,
+        "lainnya": 20,
+        "tidak_ada": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.142929,
+          3.945651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "DKI Jakarta",
+        "total_lembaga": 415,
+        "persentase": 77.57009345794393,
+        "bahasa_asing": 104,
+        "komputer": 74,
+        "menjahit": 58,
+        "kecantikan": 51,
+        "montir": 45,
+        "elektronika": 33,
+        "lainnya": 50,
+        "tidak_ada": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.816666,
+          -6.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Jawa Barat",
+        "total_lembaga": 2675,
+        "persentase": 37.74516720756315,
+        "bahasa_asing": 547,
+        "komputer": 448,
+        "menjahit": 709,
+        "kecantikan": 354,
+        "montir": 268,
+        "elektronika": 141,
+        "lainnya": 208,
+        "tidak_ada": 4412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60981,
+          -6.914744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Jawa Tengah",
+        "total_lembaga": 2502,
+        "persentase": 26.345161629988418,
+        "bahasa_asing": 632,
+        "komputer": 425,
+        "menjahit": 609,
+        "kecantikan": 237,
+        "montir": 240,
+        "elektronika": 82,
+        "lainnya": 277,
+        "tidak_ada": 6995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.140259,
+          -7.150975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "DI Yogyakarta",
+        "total_lembaga": 287,
+        "persentase": 49.653979238754324,
+        "bahasa_asing": 66,
+        "komputer": 39,
+        "menjahit": 60,
+        "kecantikan": 35,
+        "montir": 26,
+        "elektronika": 15,
+        "lainnya": 46,
+        "tidak_ada": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.369492,
+          -7.79558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Jawa Timur",
+        "total_lembaga": 3374,
+        "persentase": 33.92318520008043,
+        "bahasa_asing": 641,
+        "komputer": 519,
+        "menjahit": 832,
+        "kecantikan": 443,
+        "montir": 448,
+        "elektronika": 255,
+        "lainnya": 236,
+        "tidak_ada": 6572
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.238403,
+          -7.536064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Banten",
+        "total_lembaga": 616,
+        "persentase": 33.734939759036145,
+        "bahasa_asing": 129,
+        "komputer": 132,
+        "menjahit": 103,
+        "kecantikan": 91,
+        "montir": 70,
+        "elektronika": 48,
+        "lainnya": 43,
+        "tidak_ada": 1210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.150276,
+          -6.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Bali",
+        "total_lembaga": 412,
+        "persentase": 46.50112866817156,
+        "bahasa_asing": 150,
+        "komputer": 51,
+        "menjahit": 48,
+        "kecantikan": 53,
+        "montir": 23,
+        "elektronika": 12,
+        "lainnya": 75,
+        "tidak_ada": 474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.188919,
+          -8.409518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Nusa Tenggara Barat",
+        "total_lembaga": 611,
+        "persentase": 42.16701173222913,
+        "bahasa_asing": 147,
+        "komputer": 91,
+        "menjahit": 140,
+        "kecantikan": 94,
+        "montir": 62,
+        "elektronika": 29,
+        "lainnya": 48,
+        "tidak_ada": 838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.361648,
+          -8.652932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Nusa Tenggara Timur",
+        "total_lembaga": 325,
+        "persentase": 8.95070228587166,
+        "bahasa_asing": 55,
+        "komputer": 49,
+        "menjahit": 95,
+        "kecantikan": 31,
+        "montir": 51,
+        "elektronika": 10,
+        "lainnya": 34,
+        "tidak_ada": 3306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.079369,
+          -8.657382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kalimantan Barat",
+        "total_lembaga": 435,
+        "persentase": 18.653516295025728,
+        "bahasa_asing": 64,
+        "komputer": 85,
+        "menjahit": 104,
+        "kecantikan": 46,
+        "montir": 81,
+        "elektronika": 28,
+        "lainnya": 27,
+        "tidak_ada": 1897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.475266,
+          0.278992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kalimantan Tengah",
+        "total_lembaga": 258,
+        "persentase": 15.430622009569378,
+        "bahasa_asing": 19,
+        "komputer": 79,
+        "menjahit": 70,
+        "kecantikan": 17,
+        "montir": 34,
+        "elektronika": 14,
+        "lainnya": 25,
+        "tidak_ada": 1414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.382355,
+          -1.681488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kalimantan Selatan",
+        "total_lembaga": 629,
+        "persentase": 27.90594498669033,
+        "bahasa_asing": 37,
+        "komputer": 154,
+        "menjahit": 204,
+        "kecantikan": 47,
+        "montir": 56,
+        "elektronika": 24,
+        "lainnya": 107,
+        "tidak_ada": 1625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28376,
+          -3.092642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kalimantan Timur",
+        "total_lembaga": 390,
+        "persentase": 32.098765432098766,
+        "bahasa_asing": 45,
+        "komputer": 81,
+        "menjahit": 112,
+        "kecantikan": 36,
+        "montir": 49,
+        "elektronika": 16,
+        "lainnya": 51,
+        "tidak_ada": 825
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.419388,
+          0.538659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Kalimantan Utara",
+        "total_lembaga": 111,
+        "persentase": 20.943396226415096,
+        "bahasa_asing": 8,
+        "komputer": 18,
+        "menjahit": 30,
+        "kecantikan": 16,
+        "montir": 9,
+        "elektronika": 4,
+        "lainnya": 26,
+        "tidak_ada": 419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.041145,
+          3.073565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sulawesi Utara",
+        "total_lembaga": 314,
+        "persentase": 15.947181310309801,
+        "bahasa_asing": 43,
+        "komputer": 54,
+        "menjahit": 68,
+        "kecantikan": 53,
+        "montir": 62,
+        "elektronika": 13,
+        "lainnya": 21,
+        "tidak_ada": 1655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.972974,
+          0.624763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sulawesi Tengah",
+        "total_lembaga": 389,
+        "persentase": 17.835855112333793,
+        "bahasa_asing": 31,
+        "komputer": 82,
+        "menjahit": 108,
+        "kecantikan": 52,
+        "montir": 74,
+        "elektronika": 23,
+        "lainnya": 19,
+        "tidak_ada": 1792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.445618,
+          -1.430025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sulawesi Selatan",
+        "total_lembaga": 917,
+        "persentase": 26.688009313154833,
+        "bahasa_asing": 126,
+        "komputer": 99,
+        "menjahit": 318,
+        "kecantikan": 145,
+        "montir": 110,
+        "elektronika": 46,
+        "lainnya": 73,
+        "tidak_ada": 2519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.946932,
+          -3.64467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sulawesi Tenggara",
+        "total_lembaga": 156,
+        "persentase": 6.678082191780822,
+        "bahasa_asing": 30,
+        "komputer": 28,
+        "menjahit": 54,
+        "kecantikan": 15,
+        "montir": 10,
+        "elektronika": 14,
+        "lainnya": 5,
+        "tidak_ada": 2180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.17462,
+          -4.14491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Gorontalo",
+        "total_lembaga": 75,
+        "persentase": 9.920634920634921,
+        "bahasa_asing": 5,
+        "komputer": 15,
+        "menjahit": 34,
+        "kecantikan": 9,
+        "montir": 2,
+        "elektronika": 3,
+        "lainnya": 7,
+        "tidak_ada": 681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.058548,
+          0.556174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Sulawesi Barat",
+        "total_lembaga": 93,
+        "persentase": 13.676470588235295,
+        "bahasa_asing": 20,
+        "komputer": 13,
+        "menjahit": 31,
+        "kecantikan": 11,
+        "montir": 11,
+        "elektronika": 1,
+        "lainnya": 6,
+        "tidak_ada": 587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.232376,
+          -2.844138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Maluku",
+        "total_lembaga": 174,
+        "persentase": 13.141993957703926,
+        "bahasa_asing": 39,
+        "komputer": 51,
+        "menjahit": 21,
+        "kecantikan": 12,
+        "montir": 26,
+        "elektronika": 5,
+        "lainnya": 20,
+        "tidak_ada": 1150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.145242,
+          -3.238462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Maluku Utara",
+        "total_lembaga": 196,
+        "persentase": 15.384615384615385,
+        "bahasa_asing": 24,
+        "komputer": 59,
+        "menjahit": 27,
+        "kecantikan": 15,
+        "montir": 44,
+        "elektronika": 16,
+        "lainnya": 11,
+        "tidak_ada": 1078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.808769,
+          1.570999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua Barat",
+        "total_lembaga": 29,
+        "persentase": 2.9804727646454263,
+        "bahasa_asing": 9,
+        "komputer": 12,
+        "menjahit": 0,
+        "kecantikan": 0,
+        "montir": 8,
+        "elektronika": 0,
+        "lainnya": 0,
+        "tidak_ada": 944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.31784,
+          -1.0387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua Barat Daya",
+        "total_lembaga": 21,
+        "persentase": 1.9830028328611897,
+        "bahasa_asing": 11,
+        "komputer": 2,
+        "menjahit": 0,
+        "kecantikan": 0,
+        "montir": 7,
+        "elektronika": 1,
+        "lainnya": 0,
+        "tidak_ada": 1038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.90278,
+          -1.84622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua",
+        "total_lembaga": 125,
+        "persentase": 11.693171188026193,
+        "bahasa_asing": 23,
+        "komputer": 29,
+        "menjahit": 23,
+        "kecantikan": 9,
+        "montir": 20,
+        "elektronika": 7,
+        "lainnya": 14,
+        "tidak_ada": 944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.080353,
+          -4.269928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua Selatan",
+        "total_lembaga": 19,
+        "persentase": 2.72596843615495,
+        "bahasa_asing": 3,
+        "komputer": 1,
+        "menjahit": 5,
+        "kecantikan": 1,
+        "montir": 4,
+        "elektronika": 2,
+        "lainnya": 3,
+        "tidak_ada": 678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.63472,
+          -7.01535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua Tengah",
+        "total_lembaga": 141,
+        "persentase": 11.172741679873218,
+        "bahasa_asing": 15,
+        "komputer": 67,
+        "menjahit": 4,
+        "kecantikan": 3,
+        "montir": 45,
+        "elektronika": 5,
+        "lainnya": 2,
+        "tidak_ada": 1121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.67669,
+          -3.70479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "provinsi": "Papua Pegunungan",
+        "total_lembaga": 19,
+        "persentase": 0.7207890743550834,
+        "bahasa_asing": 5,
+        "komputer": 5,
+        "menjahit": 2,
+        "kecantikan": 0,
+        "montir": 3,
+        "elektronika": 3,
+        "lainnya": 1,
+        "tidak_ada": 2617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.79578,
+          -4.1681
+        ]
+      }
+    }
+  ]
+}
