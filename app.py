@@ -4,6 +4,7 @@ import pandas as pd
 import folium
 from streamlit_folium import st_folium
 import plotly.express as px
+import os
 
 # =========================
 # Konfigurasi Streamlit
@@ -13,15 +14,18 @@ st.title("📊 Analisis Potensi Desa di Indonesia")
 st.markdown("Sumber data: **BPS - Potensi Desa (PODES)** | Visualisasi oleh Fridha Megantara Putra")
 
 # =========================
-# 1️⃣ Baca file GeoJSON
+# 1️⃣ Baca file GeoJSON langsung dari root
 # =========================
-uploaded_file = st.file_uploader("📂 Upload file `map.geojson` kamu di sini", type=["geojson"])
+geojson_path = "map.geojson"
 
-if uploaded_file is not None:
-    geojson_data = json.load(uploaded_file)
+if not os.path.exists(geojson_path):
+    st.error("❌ File `map.geojson` tidak ditemukan di direktori root! Pastikan file berada di folder yang sama dengan `app.py`.")
+else:
+    with open(geojson_path, "r", encoding="utf-8") as f:
+        geojson_data = json.load(f)
 
     # =========================
-    # 2️⃣ Konversi ke DataFrame
+    # 2️⃣ Konversi GeoJSON ke DataFrame
     # =========================
     data = []
     for feature in geojson_data["features"]:
@@ -103,5 +107,3 @@ if uploaded_file is not None:
         st.plotly_chart(fig2, use_container_width=True)
 
     st.markdown("✅ Analisis ini menampilkan persebaran lembaga keterampilan di seluruh provinsi Indonesia, lengkap dengan peta interaktif dan visualisasi perbandingan.")
-else:
-    st.info("📥 Silakan upload file `map.geojson` terlebih dahulu untuk mulai analisis.")
